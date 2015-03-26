@@ -1,2 +1,2 @@
 print 'hehe'
-print 'modified'
+print 'modified', 'ready'
