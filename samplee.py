@@ -9,3 +9,5 @@ class Gitest(object):
 if __name__ == "__main__":
     gitest = Gitest()
 
+
+    print 'Done.'
