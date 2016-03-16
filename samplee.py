@@ -1,6 +1,6 @@
 class Gitest(object):
     name = "Gitest"
-    glass = 124
+    glass = 190
 
     def __init__(self):
         print self.name
