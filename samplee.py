@@ -1,7 +1,7 @@
 class Gitest(object):
     name = "Gitest"
     glass = 2001
-    test = "testing"
+    test = "test"
 
     def __init__(self):
         print(self.name)
