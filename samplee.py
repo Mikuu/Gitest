@@ -3,7 +3,7 @@ class Gitest(object):
     glass = 2001
 
     def __init__(self):
-        print self.name
+        print(self.name)
 
     def get_glass(self):
         return self.glass
@@ -11,7 +11,6 @@ class Gitest(object):
 
 if __name__ == "__main__":
     gitest = Gitest()
-    print gitest.get_glass()
+    print(gitest.get_glass())
 
-
-    print 'Done.'
+    print('Done.')
